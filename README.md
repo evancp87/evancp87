@@ -5,7 +5,7 @@
 
 
 ---
-### About Me
+### :sunglasses: About Me:
 - 👀 I’m interested in design, websites, apps and much more!
 - 🌱 I’m an aspiring Full Stack Developer
 - 💞️ I’m looking to collaborate on website and app projects. Currently studying Django and Next JS
