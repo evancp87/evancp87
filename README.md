@@ -6,11 +6,17 @@
 
 ---
 ### :sunglasses: About Me:
-- 👀 I’m interested in design, websites, apps and much more!
-- 🌱 I’m an aspiring Full Stack Developer
-- 💞️ I’m looking to collaborate on website and app projects. Currently studying Django and Next JS
+I am an aspiring Software Engineer, currently studying at The Jump Digital School. I use JavaScript, React, Next JS, Sass, Tailwind, Firebase and MongoDB, and PostGresSQL to build attractive websites that are written with maintainable, semantic and tidy code.
+
+I have extensive experience in the arts, so I would like a software engineer job in this industry, but I am generally open to any role or industry.
+
+I currently work in Product Management at the Royal Academy of Arts, working with software engineers, product managers and different stakeholders. I have become familiar with agile workflows, prototyping with Figma and Miro, and worked on a refresh of the RA website, amongst various projects. 
+
+Prior to my bootcamp, I spent a year self teaching myself to code, and managed to to get a temporary freelance role as a web developer for a small design studio. I enjoy building websites for clients that help them expand their work and businesses to wider audiences. I love the continous learning journey that web development provides, and I continue to grow and improve.
+
+- 💼 My portfolio - [portfolio website](http:www.evanparker.co.uk/)
 - 📫 How to reach me- [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evan-parker-9a336987/)
-- 💼 [portfolio website](http:www.evanparker.co.uk/)
+
 
 ---
 
