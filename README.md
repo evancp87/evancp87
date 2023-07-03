@@ -1,4 +1,5 @@
-## 👋 Hi, I'm Evan Parker!
+## 👋 Hi, I'm Evan Parker! 
+## Software Engineer: React, JavaScript, TypeScript, Tailwind, SCSS, Node, Next JS, Firebase, MongoDB, PostgreSQL 🧑🏽‍💻 | Digital Product Management @ Royal Academy of Arts 💻
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" max-width="100"/>
 </div>
