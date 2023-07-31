@@ -1,24 +1,5 @@
 ## 👋 Hi, I'm Evan Parker! 
 ## Software Engineer: React, JavaScript, TypeScript, Tailwind, SCSS, Node, Next JS, Firebase, MongoDB, PostgreSQL 🧑🏽‍💻 | Digital Product Management @ Royal Academy of Arts 💻
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" max-width="100"/>
-</div>
-
-
----
-### :sunglasses: About Me:
-I am an aspiring Software Engineer, currently studying at The Jump Digital School. I use JavaScript, React, Next JS, Sass, Tailwind, Firebase and MongoDB, and PostGresSQL to build attractive websites that are written with maintainable, semantic and tidy code.
-
-I have extensive experience in the arts, so I would like a software engineer job in this industry, but I am generally open to any role or industry.
-
-I currently work in Product Management at the Royal Academy of Arts, working with software engineers, product managers and different stakeholders. I have become familiar with agile workflows, prototyping with Figma and Miro, and worked on a refresh of the RA website, amongst various projects. 
-
-Prior to my bootcamp, I spent a year self teaching myself to code, and managed to to get a temporary freelance role as a web developer for a small design studio. I enjoy building websites for clients that help them expand their work and businesses to wider audiences. I love the continous learning journey that web development provides, and I continue to grow and improve.
-
-- 💼 My portfolio - [portfolio website](http:www.evanparker.co.uk/)
-- 📫 How to reach me- [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evan-parker-9a336987/)
-
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
@@ -41,6 +22,20 @@ Prior to my bootcamp, I spent a year self teaching myself to code, and managed t
  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" **alt="Heroku" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
 </div>
+
+---
+
+### :sunglasses: About Me:
+I am an aspiring Software Engineer, currently studying at The Jump Digital School. I use JavaScript, React, Next JS, Sass, Tailwind, Firebase and MongoDB, and PostGresSQL to build attractive websites that are written with maintainable, semantic and tidy code.
+
+I have extensive experience in the arts, so I would like a software engineer job in this industry, but I am generally open to any role or industry.
+
+I currently work in Product Management at the Royal Academy of Arts, working with software engineers, product managers and different stakeholders. I have become familiar with agile workflows, prototyping with Figma and Miro, and worked on a refresh of the RA website, amongst various projects. 
+
+Prior to my bootcamp, I spent a year self teaching myself to code, and managed to to get a temporary freelance role as a web developer for a small design studio. I enjoy building websites for clients that help them expand their work and businesses to wider audiences. I love the continous learning journey that web development provides, and I continue to grow and improve.
+
+- 💼 My portfolio - [portfolio website](http:www.evanparker.co.uk/)
+- 📫 How to reach me- [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evan-parker-9a336987/)
 
 ---
 
