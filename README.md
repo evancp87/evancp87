@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Evan Parker! 
-## Software Engineer: React, JavaScript, TypeScript, Tailwind, SCSS, Node, Next JS, Firebase, MongoDB, PostgreSQL 🧑🏽‍💻 | Digital Product Management @ Royal Academy of Arts 💻
+## Software Engineer:Software Engineer - React, TypeScript, Next JS, Node, MongoDB, MySQL 🧑🏽‍💻 | Works in Digital Product Management @ Royal Academy of Arts 💻 
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
