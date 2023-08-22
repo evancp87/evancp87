@@ -22,9 +22,9 @@ I am a passionate Software Engineer focusing on React, Next JS, TypeScript, Mong
 
 The team's tech stack includes Next JS, React, TypeScript, Ruby, MySQL, Python, C# and other technologies. Achievements include working on a Bloomberg funded project to refresh the RA's frontend, my role specifically carrying out quality assurance and static, component, integration and e2e testing on the new modules before rollout, to ensure they are up to industry and stakeholder standards. 
 
-Another achievement is working closely with the tech lead and other developers, who allow me to regularly pick up tickets on their behalf, to fix bugs and deploy to Github, an example being an art collections component that broke after the rollout of the new frontend, where i isolated and fixed the bug, showing I can debug and fix issues, as well as build.
+Another achievement is working closely with the tech lead and other developers, who allow me to regularly pick up tickets on their behalf, to fix bugs and deploy to Github. An example of this is an art collections component that broke after the rollout of the new frontend, where i isolated and fixed the bug, showing I can debug and fix issues, as well as build.
 
-I also helped refactor an automated JavaScript testing app called Testbot, using JS library Puppeteer, Node and webhooks to automate and test user flows through different sections of the website, and post to Slack if any errors are detected. I am currently working on a proof of concept for an extension of this project, to use Google's Lighthouse NPM package, to track accessibility, and integrate with Github Actions to post the scores on specific deploys.
+I also helped refactor an automated JavaScript testing app called Testbot, which uses JS libraries Jest and Puppeteer, with Node and webhooks to automate and test user flows through different sections of the website, and post to Slack if any errors are detected. I am currently working on a proof of concept for an extension of this project, to use Google's Lighthouse NPM package, to track accessibility, and integrate with Github Actions to post the scores on specific deploys.
 
 I am an alumni at The Jump Digital School, where i took their 5 month Professional JavaScript + Dev Ops course to further my skill set to a professional level.
 
