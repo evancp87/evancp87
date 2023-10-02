@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Evan Parker! 
-## Software Engineer: React, TypeScript, Next JS, Node, MongoDB, MySQL 🧑🏽‍💻 | Works in Digital Product Management @ Royal Academy of Arts 💻 
+## Software Engineer: React, TypeScript, Next JS, Node, MongoDB, MySQL 🧑🏽‍💻 💻 
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
