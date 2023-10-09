@@ -21,19 +21,19 @@
 ---
 
 ### :sunglasses: About Me:
-I am a passionate Software Engineer focusing on React, Next JS, TypeScript, MongoDB, and MySQL to build full stack apps and solve complex problems. I have professional experience in the tech industry, having worked a year in product management at the Royal Academy of Arts' Digital Product and Infrastructure team.
+I'm a passionate Software Engineer specializing in React, Next JS, TypeScript, MongoDB, and MySQL for full-stack app development and complex problem-solving. I've got a year of professional experience in the tech industry, covering Next JS, React, TypeScript, Ruby, MySQL, Python, C#, in my product management role at the Royal Academy of Arts' Digital Product and Infrastructure team.
 
-The team's tech stack includes Next JS, React, TypeScript, Ruby, MySQL, Python, C# and other technologies. Achievements include working on a Bloomberg funded project to refresh the RA's frontend, my role specifically carrying out quality assurance and static, component, integration and e2e testing on the new modules before rollout, to ensure they are up to industry and stakeholder standards. 
+Notable achievements include contributing to improving an automated JavaScript testing tool, Testbot, using Jest, Puppeteer, Node, and webhooks to automate and assess user flows across the website, with error reports sent to Slack. Currently, I'm working on a proof of concept to extend this project, integrating Google's Lighthouse NPM package for accessibility tracking and using Github Actions to post scores on specific deployments.
 
-Another achievement is working closely with the tech lead and other developers, who allow me to regularly pick up tickets on their behalf, to fix bugs and deploy to Github. An example of this is an art collections component that broke after the rollout of the new frontend, where i isolated and fixed the bug, showing I can debug and fix issues, as well as build.
+Other achievements include working on a Bloomberg-funded project to revamp the RA's frontend. I conducted comprehensive quality assurance, including static, component, integration, and e2e testing, ensuring industry and stakeholder standards were met before release.
 
-I also helped refactor an automated JavaScript testing app called Testbot, which uses JS libraries Jest and Puppeteer, with Node and webhooks to automate and test user flows through different sections of the website, and post to Slack if any errors are detected. I am currently working on a proof of concept for an extension of this project, to use Google's Lighthouse NPM package, to track accessibility, and integrate with Github Actions to post the scores on specific deploys.
+I collaborate closely with our tech lead and fellow developers, stepping in to troubleshoot and resolve issues, demonstrating my debugging and problem-solving skills.
 
-I am an alumni at The Jump Digital School, where i took their 5 month Professional JavaScript + Dev Ops course to further my skill set to a professional level.
+Recently I completed The Jump Digital School's 5-month Professional JavaScript + Dev Ops program to enhance my skills to a professional level.
 
-I also have experience as a freelance developer for a small design studio, where i worked on 3 small WordPress websites, mainly with CSS and JavaScript. I enjoy building websites for clients that help them expand their work and businesses to wider audiences. I love the continous learning journey that web development provides, and I continue to grow and improve.
+As a freelance developer for a small design studio, I crafted three WordPress websites, primarily focusing on CSS and JavaScript. I find great satisfaction in creating websites that help clients expand their reach and businesses. My passion for growth and improvement in web development continues.
 
-I have extensive experience in the arts, so I would like a software engineer job in this industry, but I am generally open to any role or industry.
+With a background in the arts, I'm particularly interested in software engineering roles within this industry, though I remain open to opportunities across various sectors.
 
 - 💼 My portfolio - [portfolio website](http:www.evanparker.co.uk/)
 - 📫 How to reach me- [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evan-parker-9a336987/)
