@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Evan Parker! 
-## Software Engineer: React, TypeScript, Next JS, Node, MongoDB, MySQL 🧑🏽‍💻 Full Stack Developer at Science Museum Group 💻 
+## 🧑🏽‍💻 Full Stack Developer at Science Museum Group 💻  React, TypeScript, Next JS, Node, MongoDB, MySQL, Elastic Search
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
