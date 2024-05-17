@@ -21,17 +21,13 @@
 ---
 
 ### :sunglasses: About Me:
-I'm a passionate Software Engineer specializing in React, Next JS, TypeScript, MongoDB, and MySQL for full-stack app development and complex problem-solving. I've got a year of professional experience in the tech industry, covering Next JS, React, TypeScript, Ruby, MySQL, Python, C#, in my product management role at the Royal Academy of Arts' Digital Product and Infrastructure team.
+I'm a passionate Software Engineer specializing in React, Next JS, TypeScript, MongoDB, and MySQL for full-stack app development and complex problem-solving. I've got over 2 years of professional experience in the tech industry, covering Next JS, React, TypeScript, Node, Elastic Search, MySQL, Python, as Full Stack Developer at Science Museum Group and previously my product management role at the Royal Academy of Arts' Digital Product and Infrastructure team.
 
-Notable achievements include contributing to improving an automated JavaScript testing tool, Testbot, using Jest, Puppeteer, Node, and webhooks to automate and assess user flows across the website, with error reports sent to Slack. Currently, I'm working on a proof of concept to extend this project, integrating Google's Lighthouse NPM package for accessibility tracking and using Github Actions to post scores on specific deployments.
+Notable projects include working on the SMG's Collections Online 2.0 website, a significant revamp of a popular open-source API and web service, alongside the frontend interface used by hobbyists, researchers, and developers alike to explore a diverse collection of 500,000 items. Working closely with the tech lead and frontend developer, I played a key role in modernizing legacy code, fixing a backlog of bugs, introducing new frontend components and features, and enhancing accessibility. Additionally, I've contributed to various projects, including integrating generative AI into searches and consuming Wikidata through Q Codes. 
 
-Other achievements include working on a Bloomberg-funded project to revamp the RA's frontend. I conducted comprehensive quality assurance, including static, component, integration, and e2e testing, ensuring industry and stakeholder standards were met before release.
+At the Royal Academy of Arts, I worked on a Bloomberg-funded project aimed at refreshing their frontend, ensuring quality assurance through comprehensive testing—from static checks to end-to-end scenarios— ensuring industry and stakeholder standards were met before deployment.
 
-I collaborate closely with our tech lead and fellow developers, stepping in to troubleshoot and resolve issues, demonstrating my debugging and problem-solving skills.
-
-Recently I completed The Jump Digital School's 5-month Professional JavaScript + Dev Ops program to enhance my skills to a professional level.
-
-As a freelance developer for a small design studio, I crafted three WordPress websites, primarily focusing on CSS and JavaScript. I find great satisfaction in creating websites that help clients expand their reach and businesses. My passion for growth and improvement in web development continues.
+I am an alumni of The Jump Digital School's 5-month Professional JavaScript + Dev Ops program.
 
 With a background in the arts, I'm particularly interested in software engineering roles within this industry, though I remain open to opportunities across various sectors.
 
