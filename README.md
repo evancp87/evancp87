@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Evan Parker! 
-## 🧑🏽‍💻 Full Stack Developer at Science Museum Group 💻  React, TypeScript, Next JS, Node, MongoDB, MySQL, Elasticsearch
+## 🧑🏽‍💻 Frontend Engineer at 11:FS Foundry 💻  React, React Native, TypeScript, Next JS, Node, GraphQL, Apollo, Elastic Search, MongoDB, MySQL, React Testing Library, Jest, Docker
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
